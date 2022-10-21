@@ -1,1 +1,4 @@
 Este es un texto escrito desde el repositorio de github.
+
+2da version
+primer cambio en el mismo archivo en repositorio
